@@ -1,5 +1,3 @@
----
-
 ### 🗺️ Mapa de Habilidades DIO
 
 #### Etapa 1: Inventário de Habilidades
