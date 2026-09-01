@@ -1,7 +1,3 @@
-Excelente escolha! Dar mentorias e aulas é um caminho incrível para consolidar sua autoridade, gerar renda extra e estruturar sua comunicação técnica.
-
-Concluímos todas as etapas! Abaixo está o seu **Diagnóstico Completo do Mapa de Habilidades DIO**, pronto para você utilizar no seu exercício e postar no seu repositório do GitHub.
-
 ---
 
 ### 🗺️ Mapa de Habilidades DIO
